@@ -1,5 +1,6 @@
 ## Rules
 
+- Do not `fork` this repo, as you are now a collaborator on SkyVar.
 - You are to work in groups of 2.
 - Similar to the previous assignment, you are to create an issue with the desired topic.
 - You are to research one of the topics in the upcoming list and prepare a *markdown* based presentation.
