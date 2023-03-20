@@ -5,12 +5,12 @@
 - Similar to the previous assignment, you are to create an issue with the desired topic.
 - You are to research one of the topics in the upcoming list and prepare a *markdown* based presentation.
 - Provide details of:
-  - Use-cases *(**The topics should include advances uses**)*.
+  - Use-cases *(**the topics should include advances uses**)*.
   - Pros/cons.
   - Coding examples.
   - Alternatives.
   - Screenshots.
-- **Any communication not following best practices will be marked with a 👎**
+  - **Any communication not following best practices will be marked with a 👎**
 
 ## Topics
 
@@ -37,7 +37,7 @@
   - `git checkout`. 
   - `git commit`.
   - `git merge`
-  - `git merge --squage`.
+  - `git merge --squash`.
   - `git reset`.
   - Multiple upstream.
   - Merge conflicts and resolution.
@@ -46,7 +46,7 @@
 4. Branching Workflows:
   - [Centralized workflow](https://www.atlassian.com/git/tutorials/comparing-workflows).
   - [Feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
-  - [Forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+  - [Forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow).
  
 5. Docker:
   - Using docker as an immutable tool.
